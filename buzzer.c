@@ -52,7 +52,6 @@ int main(void)
 	USART_Init(12,0);
 	USART_InterruptEnable(0);
 	sei();
-	int i;
     while (1) 
     {	
     }
